@@ -1,0 +1,49 @@
+/* Add Styles Here */
+#services .small-box {
+  background-color:#D3D3D3;
+  border: white;
+  border-style: solid;
+  border-width: 1px;
+
+}
+
+#services-header {
+  float: left;
+  margin-left: 100px;
+}
+
+
+#services h3 {
+  padding:30px;
+}
+
+
+#services p {
+  padding-bottom:30px;
+}
+
+#here {
+  float:left;
+}
+
+.offer-box {
+  margin: 40px;
+}
+
+header {
+  margin-bottom: 30px;
+}
+
+#guy {
+  margin: 40px;
+}
+
+
+#header-right {
+  float: right;
+  padding: 20px;
+}
+
+.container-fluid {
+  margin:20px;
+}
